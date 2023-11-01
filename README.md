@@ -1,2 +1,2 @@
 # pacfile
-pac for personal use
+pac for personal usage
